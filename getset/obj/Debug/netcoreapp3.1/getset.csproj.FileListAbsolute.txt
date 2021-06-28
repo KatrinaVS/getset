@@ -1,0 +1,13 @@
+D:\tms\getset\getset\bin\Debug\netcoreapp3.1\getset.exe
+D:\tms\getset\getset\bin\Debug\netcoreapp3.1\getset.deps.json
+D:\tms\getset\getset\bin\Debug\netcoreapp3.1\getset.runtimeconfig.json
+D:\tms\getset\getset\bin\Debug\netcoreapp3.1\getset.runtimeconfig.dev.json
+D:\tms\getset\getset\bin\Debug\netcoreapp3.1\getset.dll
+D:\tms\getset\getset\bin\Debug\netcoreapp3.1\getset.pdb
+D:\tms\getset\getset\obj\Debug\netcoreapp3.1\getset.csproj.AssemblyReference.cache
+D:\tms\getset\getset\obj\Debug\netcoreapp3.1\getset.AssemblyInfoInputs.cache
+D:\tms\getset\getset\obj\Debug\netcoreapp3.1\getset.AssemblyInfo.cs
+D:\tms\getset\getset\obj\Debug\netcoreapp3.1\getset.csproj.CoreCompileInputs.cache
+D:\tms\getset\getset\obj\Debug\netcoreapp3.1\getset.dll
+D:\tms\getset\getset\obj\Debug\netcoreapp3.1\getset.pdb
+D:\tms\getset\getset\obj\Debug\netcoreapp3.1\getset.genruntimeconfig.cache
